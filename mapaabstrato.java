@@ -17,7 +17,7 @@ public class mapaabstrato {
   
         
         // entryset() para demonstrar o hashmap todo
-        System.out.println("The Set view of the mappings:"); 
+        System.out.println("mapa abstrato"); 
         System.out.println(absMap.entrySet()); 
     } 
 }
