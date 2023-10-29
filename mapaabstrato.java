@@ -1,6 +1,6 @@
 import java.util.*; 
   
-public class mapahashe { 
+public class mapaabstrato { 
   
     public static void main(String[] args) 
     { 
